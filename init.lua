@@ -3,7 +3,7 @@ require("options")
 
 local map = vim.api.nvim_set_keymap
 
-vim.cmd 'colorscheme aura-dark-soft-text '
+vim.cmd 'colorscheme catppuccin-mocha '
 
 vim.diagnostic.config({ virtual_text = false })
 
